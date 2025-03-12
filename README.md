@@ -7,9 +7,9 @@ Remove entire lines from a JSONL dataset using only keywords that exactly match,
 
 # Results
 
-Original Single Core (lineremoval.py): 2 minutes and 13 seconds
-Multicore (lineremoval_multicore.py): 11.84 seconds
-Lines removed: 3,366/41,355
+- Original Single Core (lineremoval.py): 2 minutes and 13 seconds
+- Multicore (lineremoval_multicore.py): 11.84 seconds
+- Lines removed: 3,366/41,355
 
 2nd test (Multicore only)
 
