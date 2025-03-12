@@ -15,6 +15,7 @@ Remove entire lines from a JSONL dataset using only keywords that exactly match,
 
 Multicore (32k lines): 11.5 seconds
 
+*Note: results were ran on a Intel Core i9-14900HX CPU using 1 core in the original, and all 24+Hyperthreading in the multicore*
 # Compatibility
 
 Should be platform-agnostic as I did not use any specific features to windows, should work perfect on Linux, at least it does in my case. Unsure about ARM platforms like Mac
